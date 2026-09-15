@@ -27,6 +27,15 @@ First-author research article published in *Materials Horizons*.
 
 ## Selected Projects
 
-* [CCD Camera Thermal Management for Directed Energy Deposition](https://github.com/CEasonN/ARMS-Lab)
-* [Numerical Heat-Transfer Analysis of Multilayer Spherical Systems](https://github.com/CEasonN/EME165)
-* [Automated Mechatronics Controller](https://github.com/CEasonN/EME154)
+* [Spatial Thermal-Gradient Sintering](https://github.com/CEasonN/spatial-thermal-gradient-sintering)
+  First-author research on controlled grain-size modulation in bulk metals.
+
+* [CCD Camera Thermal Management for Directed Energy Deposition](https://github.com/CEasonN/ded-camera-thermal-management)
+  Thermal monitoring, MATLAB analysis, and SolidWorks fixture design for a DED system.
+
+* [Numerical Heat-Transfer Model of a Multilayer Spherical System](https://github.com/CEasonN/spherical-heat-transfer-model)
+  MATLAB model of steady-state radial conduction, convection, radiation, and internal heat generation.
+
+* [Automated Mechatronics Controller](https://github.com/CEasonN/automated-mechatronics-controller)
+  Arduino-based motor-positioning system with automatic and manual operating modes.
+
