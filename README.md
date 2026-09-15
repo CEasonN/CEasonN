@@ -1,6 +1,6 @@
 # Hi, I'm Yizheng (Eason) Chen
 
-I am a Mechanical Engineering Ph.D. student at the University of California, Irvine, working at the intersection of materials science and advanced manufacturing.
+I am a Mechanical and Aerospace Engineering Ph.D. student at the University of California, Irvine, working at the intersection of materials science and advanced manufacturing.
 
 ## Research Interests
 
